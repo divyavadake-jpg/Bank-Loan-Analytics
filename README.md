@@ -117,4 +117,3 @@ Used SQL to extract KPIs such as:
 
 ---
 
-## 🗂️ Project Structure
