@@ -85,6 +85,14 @@ This project includes an interactive **Power BI dashboard** that provides a comp
 
 ---
 
+## 🧩 SQL Analysis
+Used SQL to extract KPIs such as:
+- Year-wise loan trends  
+- Payment behavior by verification status  
+- Risk segmentation by grade  
+
+---
+
 ## 🧠 Key Insights
 - Strong growth in loan disbursement over time  
 - Risk concentrated in lower credit grades  
